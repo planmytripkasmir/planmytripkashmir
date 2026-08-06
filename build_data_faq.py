@@ -1,0 +1,48 @@
+FAQ_CATEGORIES = [
+("Booking & Packages", [
+    ("How do I book a Kashmir tour package with Plan My Trip Kashmir?", "Call or WhatsApp us at +91 70060 83281, or fill in the enquiry form on our Contact page with your travel dates and group size. We'll share a customised itinerary and price within a few hours, and confirm your booking once you're happy with the plan and pay the advance."),
+    ("Are your prices cheaper than other Kashmir tour operators?", "We price our packages to typically run below the standard market rate for the same itinerary, hotel category and inclusions, since we're a locally based Srinagar operator without the overheads of larger national travel platforms. Compare our package pages against any quote you've received elsewhere and message us the details — we're happy to review it."),
+    ("Can I customise a package instead of booking a fixed itinerary?", "Yes. Every package on our site is a starting template. We regularly adjust the number of nights per destination, upgrade or downgrade hotel categories, add Ladakh or Vaishno Devi, or swap in offbeat spots like Doodhpathri and Yusmarg — at no separate planning fee."),
+    ("How much advance payment is required to confirm a booking?", "This depends on the season and package, but typically a partial advance confirms your dates and hotel/houseboat booking, with the balance payable before or on arrival. We'll share exact terms in your booking confirmation."),
+    ("Do you offer group discounts for large parties?", "Yes, group bookings (typically 8+ travellers) are eligible for custom pricing. Share your group size and dates with us and we'll work out a group rate."),
+    ("What is your cancellation and refund policy?", "Cancellation terms depend on how close to your travel date you cancel, since hotel and houseboat bookings carry their own supplier policies. Full details are in our Terms & Conditions page — we always share the specific policy for your booking in writing before you pay."),
+]),
+("Best Time & Weather", [
+    ("What is the best time to visit Kashmir?", "It depends on what you want to see. April–June and September–October offer the most reliable weather for sightseeing; December–February is best for snow and skiing in Gulmarg. Read our full guide on the Best Time to Visit Kashmir on our blog."),
+    ("Is Kashmir open for tourism in December?", "Yes, Kashmir is open year-round. December sees the start of the winter season, with heavier, more reliable snowfall typically arriving in the second half of the month. Sonmarg and the Ladakh route close for winter, but Srinagar, Gulmarg and Pahalgam remain fully accessible."),
+    ("How cold does it get in Kashmir in winter?", "Srinagar typically ranges from -2°C to 8°C in January, while Gulmarg can drop several degrees colder, especially at night. Pack heavy thermal layers, a proper winter jacket and waterproof boots."),
+    ("Can I see snow in Kashmir without visiting in peak winter?", "Gulmarg's higher slopes (accessible via the Gondola) can hold snow well into April in a good year, so it's possible to see snow even on a spring trip, though it's not guaranteed."),
+]),
+("Travel & Documents", [
+    ("Do Indian citizens need any special permit to visit Kashmir?", "No special permit is required for Indian citizens to visit Srinagar, Gulmarg, Pahalgam or Sonmarg. If you extend your trip into Ladakh, an Inner Line Permit is required for certain areas including Pangong Lake, which we arrange on your behalf."),
+    ("Do foreign nationals need a permit to visit Kashmir?", "Foreign nationals generally do not need a special permit for the main Kashmir Valley circuit, though requirements can change and some areas near the border may have restrictions. We recommend checking current requirements with us at the time of booking, as rules are updated by the authorities from time to time."),
+    ("How do I reach Srinagar?", "Srinagar International Airport has daily direct flights from Delhi, Mumbai, Bengaluru, Chandigarh, Jammu and several other major Indian cities. Srinagar is also connected by road via the Jammu-Srinagar National Highway."),
+    ("Is it safe to travel to Kashmir right now?", "Kashmir receives a large number of domestic and international tourists every year, and the main tourist circuit — Srinagar, Gulmarg, Pahalgam and Sonmarg — operates normally with a visible security presence. As with any destination, we recommend checking current travel advisories closer to your travel date, and our on-ground team stays in touch with you throughout your trip."),
+    ("What ID proof do I need to carry?", "A valid government photo ID (Aadhaar, passport, driving licence or voter ID) is required for hotel and houseboat check-ins. Foreign nationals should carry their passport and any relevant visa documentation."),
+]),
+("Accommodation", [
+    ("What is a houseboat stay like?", "A houseboat is a fixed, ornately carved wooden vessel permanently moored on Dal Lake or Nigeen Lake, with bedrooms, a dining area and attached bathrooms. A shikara ferries you between the houseboat and the shore. See our full houseboat guide on the blog for details."),
+    ("Are the hotels and houseboats safe and hygienic?", "We work only with houseboats registered with Jammu & Kashmir Tourism and hotels that meet our own quality checks for cleanliness, safety and service. If you have a specific concern, tell us and we'll confirm details of your exact property before booking."),
+    ("Can I request a specific hotel or houseboat category?", "Yes — let us know your preferred category (standard, deluxe or luxury) and we'll quote accordingly. Photos of the specific property can be shared on request before you confirm."),
+    ("Do hotels provide hot water and heating in winter?", "Yes, all hotels and houseboats we work with provide hot water year-round, and heating (room heaters or centrally heated common areas) during the winter months."),
+]),
+("On the Ground", [
+    ("Will I have a private vehicle for the whole trip?", "Yes, all our standard packages include a private AC vehicle (not a shared coach) with an experienced local driver for every transfer and sightseeing day."),
+    ("Are meals included in the packages?", "Most packages include daily breakfast and dinner (locally known as the MAP plan). Lunch is usually excluded so you can explore local restaurants along the route, though it can be added on request."),
+    ("Is Wi-Fi available during the trip?", "Most hotels and houseboats offer Wi-Fi, and mobile network coverage (postpaid SIMs work best; some prepaid SIMs from outside J&K face restrictions) is generally reliable in Srinagar, Gulmarg and Pahalgam."),
+    ("What if the weather affects my itinerary (e.g. Gondola closure)?", "Our local team monitors weather and road conditions daily. If a specific activity like the Gulmarg Gondola Phase 2 is closed due to weather, we'll adjust your day's plan on the spot rather than leaving you stranded."),
+    ("Can I extend my trip once I'm already in Kashmir?", "Yes, subject to hotel and vehicle availability — just speak to your trip coordinator, who stays reachable on WhatsApp throughout your stay."),
+]),
+]
+
+TESTIMONIALS = [
+    ("Rohit & Ananya Sharma", "Delhi", 5, "Kashmir Honeymoon Bliss Package", "The houseboat stay was the highlight of our trip — the candlelight dinner on the deck was exactly what we'd hoped for. Our coordinator was reachable the entire week and adjusted our Sonmarg day when it started raining."),
+    ("Priya Menon", "Bengaluru", 5, "Kashmir Paradise Getaway", "First time in Kashmir and it did not disappoint. The Gulmarg Gondola views were unreal and the driver knew exactly where to stop for photos without us having to ask."),
+    ("The Kapoor Family", "Mumbai", 5, "Kashmir Family Wonders", "Travelling with my parents and two kids made me nervous about pacing, but the itinerary was genuinely relaxed. No rushed mornings, and the houseboat had a lower-deck room that was easy for my dad to get in and out of."),
+    ("Arjun Verma", "Chandigarh", 4, "Kashmir Express 4N/5D", "Great value for a short trip — we only had 5 days off work and still managed to see Srinagar, Gulmarg and Pahalgam properly. Would have liked a bit more time in Pahalgam but that's on us for picking the short package."),
+    ("Sana Iqbal", "Hyderabad", 5, "Best of Kashmir Luxury Tour", "Worth the upgrade. The private guide at the Mughal Gardens added a lot of context we would have missed on our own, and the Wazwan dinner on the last night was a wonderful send-off."),
+    ("Vikram & Neha", "Pune", 5, "Kashmir with Ladakh Explorer", "The Zoji La crossing was the trip of a lifetime. Our driver was calm and experienced on the mountain roads, and the acclimatisation day in Leh made a real difference — no altitude issues at all."),
+    ("Deepak Nair", "Kochi", 4, "Jammu Kashmir Grand Tour with Vaishno Devi", "Combining the Vaishno Devi darshan with the Kashmir circuit worked really well logistically. The Jawahar Tunnel drive into the valley was stunning. Communication before booking could have been slightly faster, but everything on-ground was smooth."),
+    ("Fatima Sheikh", "Ahmedabad", 5, "Srinagar Houseboat & Shikara Experience", "A perfect quick getaway. Two nights was just enough to properly enjoy the lake without needing a full week off work. The sunrise floating market ride was magical."),
+    ("Karan Malhotra", "Jaipur", 5, "Gulmarg Snow Special", "Booked this specifically for the snow and it delivered — heavy snowfall on our second day in Gulmarg and the Gondola ride through it was unforgettable. Well organised winter clothing advice beforehand too."),
+]

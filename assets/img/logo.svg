@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 160" fill="none">
+  <defs>
+    <linearGradient id="goldGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#E7C27D"/>
+      <stop offset="55%" stop-color="#C6912F"/>
+      <stop offset="100%" stop-color="#9C6B1E"/>
+    </linearGradient>
+    <linearGradient id="tealGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1F4B5C"/>
+      <stop offset="100%" stop-color="#123240"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Mughal ogee arch mark with chinar leaf + shikara line -->
+  <g transform="translate(8,10)">
+    <path d="M70 138 V78 C70 40 90 10 70 8 C 50 10 70 40 70 78" fill="none"/>
+    <path d="M20 138 C20 78 30 32 70 14 C110 32 120 78 120 138 Z" fill="url(#tealGrad)"/>
+    <path d="M20 138 C20 78 30 32 70 14 C110 32 120 78 120 138 Z" fill="none" stroke="url(#goldGrad)" stroke-width="3"/>
+    <!-- chinar leaf silhouette inside arch -->
+    <path d="M70 100 C60 92 55 78 60 66 C51 66 44 58 44 50 C52 51 58 46 60 40 C56 34 56 26 62 20 C64 28 68 32 70 32 C72 32 76 28 78 20 C84 26 84 34 80 40 C82 46 88 51 96 50 C96 58 89 66 80 66 C85 78 80 92 70 100 Z" fill="url(#goldGrad)" opacity="0.92"/>
+    <!-- shikara boat line beneath -->
+    <path d="M34 120 Q70 138 106 120" stroke="#EFE3C8" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <path d="M46 126 Q70 118 94 126" stroke="#EFE3C8" stroke-width="2" fill="none" stroke-linecap="round" opacity="0.7"/>
+  </g>
+
+  <!-- Wordmark -->
+  <text x="150" y="78" font-family="'Cormorant Garamond', 'Playfair Display', serif" font-size="46" font-weight="600" fill="#1F2421" letter-spacing="0.5">Plan My Trip</text>
+  <text x="150" y="112" font-family="'Jost', sans-serif" font-size="20" font-weight="500" letter-spacing="6" fill="#C6912F">K A S H M I R</text>
+  <line x1="151" y1="88" x2="470" y2="88" stroke="#C6912F" stroke-width="1" opacity="0.6"/>
+</svg>
